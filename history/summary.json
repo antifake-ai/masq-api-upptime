@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.stealcut.org.ico",
     "slug": "masq-be",
     "status": "down",
-    "uptime": "80.35%",
-    "uptimeDay": "80.35%",
-    "uptimeWeek": "80.35%",
-    "uptimeMonth": "80.35%",
-    "uptimeYear": "80.35%",
+    "uptime": "99.60%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
     "time": 748,
     "timeDay": 748,
     "timeWeek": 748,
     "timeMonth": 748,
     "timeYear": 748,
     "dailyMinutesDown": {
-      "2025-08-12": 9
+      "2025-08-12": 0
     }
   }
 ]
