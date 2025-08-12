@@ -1,7 +1,7 @@
-url: https://api.stealcut.org/healthzzz
-status: down
-code: 404
-responseTime: 793
-lastUpdated: 2025-08-12T16:19:51.628Z
+url: https://api.stealcut.org/health
+status: up
+code: 200
+responseTime: 783
+lastUpdated: 2025-08-12T16:24:59.014Z
 startTime: 2025-08-12T15:46:32.171Z
 generator: Upptime <https://github.com/upptime/upptime>
