@@ -1,20 +1,20 @@
 [
   {
     "name": "Masq BE",
-    "url": "https://api.stealcut.org/health",
+    "url": "https://api.stealcut.org/healthzzzzz",
     "icon": "https://icons.duckduckgo.com/ip3/api.stealcut.org.ico",
     "slug": "masq-be",
-    "status": "up",
-    "uptime": "76.76%",
-    "uptimeDay": "76.76%",
-    "uptimeWeek": "76.76%",
-    "uptimeMonth": "76.76%",
-    "uptimeYear": "76.76%",
-    "time": 745,
-    "timeDay": 745,
-    "timeWeek": 745,
-    "timeMonth": 745,
-    "timeYear": 745,
+    "status": "down",
+    "uptime": "80.35%",
+    "uptimeDay": "80.35%",
+    "uptimeWeek": "80.35%",
+    "uptimeMonth": "80.35%",
+    "uptimeYear": "80.35%",
+    "time": 748,
+    "timeDay": 748,
+    "timeWeek": 748,
+    "timeMonth": 748,
+    "timeYear": 748,
     "dailyMinutesDown": {
       "2025-08-12": 9
     }
