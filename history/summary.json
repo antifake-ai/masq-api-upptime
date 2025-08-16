@@ -4,17 +4,19 @@
     "url": "https://api.stealcut.org/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.stealcut.org.ico",
     "slug": "masq-be",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 731,
-    "timeDay": 700,
-    "timeWeek": 731,
-    "timeMonth": 731,
-    "timeYear": 731,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 742,
+    "timeDay": 761,
+    "timeWeek": 742,
+    "timeMonth": 742,
+    "timeYear": 742,
+    "dailyMinutesDown": {
+      "2025-08-16": 11
+    }
   }
 ]
